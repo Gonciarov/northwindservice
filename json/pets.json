@@ -1,0 +1,824 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Luna",
+      "animal": "dog",
+      "city": "Seattle",
+      "state": "WA",
+      "description": "Luna is actually the most adorable dog in the world. Her hobbies include yelling at squirrels, aggressively napping on her owners' laps, and asking to be fed two hours before IT'S DAMN WELL TIME LUNA. Luna is beloved by her puppy parents and lazily resides currently in Seattle, Washington.",
+      "breed": "Havanese",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog25.jpg",
+        "http://pets-images.dev-apis.com/pets/dog26.jpg",
+        "http://pets-images.dev-apis.com/pets/dog27.jpg",
+        "http://pets-images.dev-apis.com/pets/dog28.jpg",
+        "http://pets-images.dev-apis.com/pets/dog29.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bunnahabhain",
+      "animal": "dog",
+      "city": "Minneapolis",
+      "state": "MN",
+      "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+      "breed": "Goldendoodle",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog31.jpg",
+        "http://pets-images.dev-apis.com/pets/dog30.jpg",
+        "http://pets-images.dev-apis.com/pets/dog32.jpg",
+        "http://pets-images.dev-apis.com/pets/dog33.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Olive",
+      "animal": "dog",
+      "city": "Minneapolis",
+      "state": "MN",
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "breed": "Boxer",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog34.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sudo",
+      "animal": "dog",
+      "city": "Denver",
+      "state": "CO",
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+      "breed": "Wheaten Terrier",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog37.jpg",
+        "http://pets-images.dev-apis.com/pets/dog38.jpg",
+        "http://pets-images.dev-apis.com/pets/dog39.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Beam",
+      "animal": "dog",
+      "city": "Denver",
+      "state": "CO",
+      "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+      "breed": "Wheaten Terrier",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog35.jpg",
+        "http://pets-images.dev-apis.com/pets/dog36.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gizela",
+      "animal": "bird",
+      "city": "Carol Stream",
+      "state": "IL",
+      "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+      "breed": "Cockatoo",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird2.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Laughton",
+      "animal": "reptile",
+      "city": "Bridgeport",
+      "state": "CT",
+      "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "breed": "Horned Lizard",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/reptile2.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Si",
+      "animal": "dog",
+      "city": "Charlotte",
+      "state": "NC",
+      "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+      "breed": "Shih Tzu",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog0.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Lyda",
+      "animal": "rabbit",
+      "city": "Springfield",
+      "state": "IL",
+      "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+      "breed": "American",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/rabbit3.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Jackquelin",
+      "animal": "dog",
+      "city": "Tucson",
+      "state": "AZ",
+      "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+      "breed": "Labrador",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog1.jpg"
+      ]
+    },
+
+    {
+      "id": 11,
+      "name": "Robinette",
+      "animal": "dog",
+      "city": "Madison",
+      "state": "WI",
+      "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+      "breed": "Pit Bull",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog2.jpg"
+      ]
+    },
+
+        {
+      "id": 12,
+      "name": "Vera",
+      "animal": "cat",
+      "city": "Minneapolis",
+      "state": "MN",
+      "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+      "breed": "Chartreux",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat1.jpg"
+      ]
+    },
+
+     {
+      "id": 13,
+      "name": "Carolan",
+      "animal": "cat",
+      "city": "Kansas City",
+      "state": "MO",
+      "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+      "breed": "American Longhair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat2.jpg"
+      ]
+    },
+
+        {
+      "id": 14,
+      "name": "Angeline",
+      "animal": "dog",
+      "city": "New Haven",
+      "state": "CT",
+      "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+      "breed": "Husky",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog3.jpg"
+      ]
+    },
+
+        {
+      "id": 15,
+      "name": "Sheff",
+      "animal": "dog",
+      "city": "Los Angeles",
+      "state": "CA",
+      "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+      "breed": "Havanese",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog22.jpg"
+      ]
+    },
+
+        {
+      "id": 16,
+      "name": "Zara",
+      "animal": "cat",
+      "city": "Harrisburg",
+      "state": "PA",
+      "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+      "breed": "Domestic Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat3.jpg"
+      ]
+    },
+
+        {
+      "id": 17,
+      "name": "Del",
+      "animal": "cat",
+      "city": "Greenville",
+      "state": "SC",
+      "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+      "breed": "Domestic Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat4.jpg"
+      ]
+    },
+
+        {
+      "id": 18,
+      "name": "Kippy",
+      "animal": "dog",
+      "city": "Baltimore",
+      "state": "MD",
+      "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+      "breed": "Jack Russel Terrier",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog4.jpg"
+      ]
+    },
+
+        {
+      "id": 19,
+      "name": "Jobi",
+      "animal": "cat",
+      "city": "New Haven",
+      "state": "CT",
+      "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+      "breed": "Tabby",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat5.jpg"
+      ]
+    },
+
+        {
+      "id": 20,
+      "name": "Bernard",
+      "animal": "dog",
+      "city": "Manchester",
+      "state": "NH",
+      "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "breed": "Jack Russel Terrier",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog5.jpg"
+      ]
+    },
+
+     {
+      "id": 21,
+      "name": "Charyl",
+      "animal": "bird",
+      "city": "Portland",
+      "state": "OR",
+      "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+      "breed": "Budgie",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird0.jpg"
+      ]
+    },
+
+     {
+      "id": 22,
+      "name": "Faulkner",
+      "animal": "cat",
+      "city": "Cincinnati",
+      "state": "OH",
+      "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+      "breed": "American Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat6.jpg"
+      ]
+    },
+
+     {
+      "id": 23,
+      "name": "Kesley",
+      "animal": "cat",
+      "city": "Houston",
+      "state": "TX",
+      "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+      "breed": "Tabby",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat7.jpg"
+      ]
+    },
+
+     {
+      "id": 24,
+      "name": "Jonell",
+      "animal": "cat",
+      "city": "Riverside",
+      "state": "CA",
+      "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+      "breed": "Tabby",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat8.jpg"
+      ]
+    },
+
+     {
+      "id": 25,
+      "name": "Valentino",
+      "animal": "cat",
+      "city": "Pensacola",
+      "state": "FL",
+      "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+      "breed": "British Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat9.jpg"
+      ]
+    },
+
+    {
+      "id": 26,
+      "name": "Cheston",
+      "animal": "cat",
+      "city": "Beaufort",
+      "state": "SC",
+      "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+      "breed": "American Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat10.jpg"
+      ]
+    },
+
+    {
+      "id": 27,
+      "name": "Fairleigh",
+      "animal": "dog",
+      "city": "Tampa",
+      "state": "FL",
+      "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+      "breed": "Pit Bull",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog6.jpg"
+      ]
+    },
+
+     {
+      "id": 28,
+      "name": "Ade",
+      "animal": "cat",
+      "city": "Chicago",
+      "state": "IL",
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "breed": "American Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat11.jpg"
+      ]
+    },
+
+    {
+      "id": 29,
+      "name": "Elinor",
+      "animal": "cat",
+      "city": "Tacoma",
+      "state": "WA",
+      "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+      "breed": "Domestic Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat12.jpg"
+      ]
+    },
+
+     {
+      "id": 30,
+      "name": "Pace",
+      "animal": "dog",
+      "city": "Philadelphia",
+      "state": "PA",
+      "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+      "breed": "Boxer",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog7.jpg"
+      ]
+    },
+
+    {
+      "id": 31,
+      "name": "Talbert",
+      "animal": "cat",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+      "breed": "American Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat13.jpg"
+      ]
+    },
+
+     {
+      "id": 32,
+      "name": "Linette",
+      "animal": "cat",
+      "city": "Lehigh Acres",
+      "state": "FL",
+      "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+      "breed": "Domestic Shorthair",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/cat14.jpg"
+      ]
+    },
+
+    {
+      "id": 33,
+      "name": "Roldan",
+      "animal": "dog",
+      "city": "Jacksonville",
+      "state": "FL",
+      "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "breed": "French Bulldog",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog8.jpg"
+      ]
+    },
+
+       {
+      "id": 34,
+      "name": "Murry",
+      "animal": "cat",
+      "city": "Decatur",
+      "state": "GA",
+      "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+      "breed": "Macaw",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird3.jpg"
+      ]
+    },
+
+    {
+      "id": 35,
+      "name": "Shaw",
+      "animal": "cat",
+      "city": "Whittier",
+      "state": "CA",
+      "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+      "breed": "Parakeet",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird4.jpg"
+      ]
+    },
+
+    {
+      "id": 36,
+      "name": "Raynor",
+      "animal": "cat",
+      "city": "Waterbury",
+      "state": "CT",
+      "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+      "breed": "Macaw",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird5.jpg"
+      ]
+    },
+
+     {
+      "id": 37,
+      "name": "Rose",
+      "animal": "cat",
+      "city": "Minneapolis",
+      "state": "MN",
+      "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+      "breed": "Parrot",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird6.jpg"
+      ]
+    },
+
+     {
+      "id": 38,
+      "name": "Ashley",
+      "animal": "dog",
+      "city": "Shreveport",
+      "state": "LA",
+      "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+      "breed": "Husky",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog9.jpg"
+      ]
+    },
+
+    {
+      "id": 39,
+      "name": "Mayne",
+      "animal": "cat",
+      "city": "Dayton",
+      "state": "OH",
+      "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+      "breed": "Macaw",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird3.jpg"
+      ]
+    },
+
+     {
+      "id": 40,
+      "name": "Nester",
+      "animal": "dog",
+      "city": "Mount Vernon",
+      "state": "NY",
+      "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+      "breed": "Husky",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog10.jpg"
+      ]
+    },
+
+    {
+      "id": 41,
+      "name": "Josephine",
+      "animal": "dog",
+      "city": "Nashville",
+      "state": "TN",
+      "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+      "breed": "Dachshund",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog11.jpg"
+      ]
+    },
+
+    {
+      "id": 42,
+      "name": "Wyatt",
+      "animal": "cat",
+      "city": "Cincinnati",
+      "state": "OH",
+      "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+      "breed": "Parrot",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird7.jpg"
+      ]
+    },
+
+    {
+      "id": 43,
+      "name": "Sullivan",
+      "animal": "bird",
+      "city": "Cincinnati",
+      "state": "OH",
+      "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+      "breed": "African Gray",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird1.jpg"
+      ]
+    },
+
+    {
+      "id": 44,
+      "name": "Julietta",
+      "animal": "dog",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+      "breed": "Dalmation",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog12.jpg"
+      ]
+    },
+
+    {
+      "id": 45,
+      "name": "Fairleigh",
+      "animal": "dog",
+      "city": "New York City",
+      "state": "NY",
+      "description": "Fusce consequat. Nulla nisl. Nunc nisl.",
+      "breed": "Pekingese",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog13.jpg"
+      ]
+    },
+
+    {
+      "id": 46,
+      "name": "Reiko",
+      "animal": "cat",
+      "city": "Asheville",
+      "state": "NC",
+      "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+      "breed": "Cockatiel",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird8.jpg"
+      ]
+    },
+
+     {
+      "id": 47,
+      "name": "Saunderson",
+      "animal": "dog",
+      "city": "Cincinnati",
+      "state": "OH",
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+      "breed": "Weimaraner",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog14.jpg"
+      ]
+    },
+
+     {
+      "id": 48,
+      "name": "Errick",
+      "animal": "dog",
+      "city": "Honolulu",
+      "state": "HI",
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+      "breed": "Labrador",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog15.jpg"
+      ]
+    },
+
+    {
+      "id": 49,
+      "name": "Daniele",
+      "animal": "cat",
+      "city": "Anaheim",
+      "state": "CA",
+      "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+      "breed": "Parrot",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/bird9.jpg"
+      ]
+    },
+
+    {
+      "id": 50,
+      "name": "Dalston",
+      "animal": "dog",
+      "city": "Buffalo",
+      "state": "NY",
+      "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "breed": "Pit Bull",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog16.jpg"
+      ]
+    },
+
+    {
+      "id": 51,
+      "name": "Ross",
+      "animal": "cat",
+      "city": "New York City",
+      "state": "NY",
+      "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+      "breed": "German Shepherd",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog24.jpg"
+      ]
+    },
+
+     {
+      "id": 52,
+      "name": "Alexis",
+      "animal": "dog",
+      "city": "Saint Petersburg",
+      "state": "FL",
+      "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+      "breed": "Dalmation",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog17.jpg"
+      ]
+    },
+
+     {
+      "id": 53,
+      "name": "Heriberto",
+      "animal": "dog",
+      "city": "Augusta",
+      "state": "GA",
+      "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+      "breed": "Jack Russel Terrier",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog18.jpg"
+      ]
+    },
+
+     {
+      "id": 54,
+      "name": "Zedekiah",
+      "animal": "dog",
+      "city": "Beaverton",
+      "state": "OR",
+      "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+      "breed": "Australian Shepherd",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog19.jpg"
+      ]
+    },
+
+    {
+      "id": 55,
+      "name": "Meaghan",
+      "animal": "dog",
+      "city": "Jacksonville",
+      "state": "FL",
+      "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "breed": "Jack Russel Terrier",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog20.jpg"
+      ]
+    },
+
+    {
+      "id": 56,
+      "name": "Alexandr",
+      "animal": "cat",
+      "city": "Monroe",
+      "state": "LA",
+      "description": "In congue. Etiam justo. Etiam pretium iaculis justo.",
+      "breed": "Labrador",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog23.jpg"
+      ]
+    },
+
+     {
+      "id": 57,
+      "name": "Leicester",
+      "animal": "cat",
+      "city": "Tampa",
+      "state": "FL",
+      "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+      "breed": "Havanese",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog22.jpg"
+      ]
+    },
+
+     {
+      "id": 58,
+      "name": "Niven",
+      "animal": "dog",
+      "city": "Columbia",
+      "state": "SC",
+      "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+      "breed": "French Bulldog",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/dog21.jpg"
+      ]
+    },
+
+    {
+      "id": 59,
+      "name": "Annamarie",
+      "animal": "reptile",
+      "city": "Huntington Beach",
+      "state": "CA",
+      "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
+      "breed": "Iguana",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/reptile0.jpg"
+      ]
+    },
+
+    {
+      "id": 60,
+      "name": "Charisse",
+      "animal": "rabbit",
+      "city": "Lexington",
+      "state": "KY",
+      "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+      "breed": "Dutch",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/rabbit0.jpg"
+      ]
+    },
+
+    {
+      "id": 61,
+      "name": "Maitilde",
+      "animal": "rabbit",
+      "city": "Dallas",
+      "state": "TX",
+      "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+      "breed": "Angora",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/rabbit1.jpg"
+      ]
+    },
+
+    {
+      "id": 62,
+      "name": "Natalina",
+      "animal": "rabbit",
+      "city": "Tampa",
+      "state": "FL",
+      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+      "breed": "Belgian Haze",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/rabbit2.jpg"
+      ]
+    },
+
+     {
+      "id": 63,
+      "name": "Michail",
+      "animal": "reptile",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+      "breed": "Iguana",
+      "images": [
+        "http://pets-images.dev-apis.com/pets/reptile1.jpg"
+      ]
+    }
+
+  ]
+}
