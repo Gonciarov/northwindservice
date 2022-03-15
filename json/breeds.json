@@ -1,0 +1,73 @@
+{
+    "breeds": [
+
+        {
+            "animal": "dog",
+            "breeds": [
+                "Havanese",
+                "German Shepherd",
+                "Dachshund",
+                "French Bulldog",
+                "Labrador",
+                "Husky",
+                "Shih Tzu",
+                "Pit Bull",
+                "Jack Russel Terrier",
+                "Boxer",
+                "Dalmation",
+                "Pekingese",
+                "Weimaraner",
+                "Australian Shepherd",
+                "Goldendoodle",
+                "Wheaten Terrier"
+            ]
+        },
+
+        {
+            "animal": "cat",
+            "breeds": [
+                "American Shorthair",
+                "American Longhair",
+                "British Shorthair",
+                "Domestic Shorthair",
+                "Tabby",
+                "Siamese",
+                "Maine Coon",
+                "Cornish Rex",
+                "Chartreux"
+            ]
+        },
+
+        {
+            "animal": "reptile",
+            "breeds": [
+                "Iguana",
+                "Horned Lizard"
+            ]
+        },
+
+        {
+            "animal": "rabbit",
+            "breeds": [
+                "American",
+                "Angora",
+                "Belgian Hare",
+                "Dutch"
+            ]
+        },
+
+        {
+            "animal": "bird",
+            "breeds": [
+                "Cockatiel",
+                "Cockatoo",
+                "Parakeet Gray",
+                "Macaw",
+                "Budgie",
+                "Parrot",
+                "African Gray"
+            ]
+        }
+
+    ]
+}
